@@ -1,13 +1,18 @@
-## Welcome to GitHub Pages
+## Basic Python Control flow Tools
 
-You can use the [editor on GitHub](https://github.com/hareeshbhuma/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Python knows the usual control flow statements known from other languages, with some twists.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
 
-### Markdown
+Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.if Statement
+2.for Statement
+3.The range() Function
+4.break and continue Statements, and else Clauses on Loops
+5.pass Statements
 
+# if Statement
 ```markdown
 Syntax highlighted code block
 
