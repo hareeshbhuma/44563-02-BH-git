@@ -84,8 +84,8 @@ defenestrate 12
 
 ## References 
 
-[https://python.swaroopch.com/control_flow.html](url)
+[Python Ref1](https://python.swaroopch.com/control_flow.html)
 
-[https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/](url)
+[Python Ref2](https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/)
 
-[http://net-informations.com/python/flow/default.htm](url)
+[Python Ref3](http://net-informations.com/python/flow/default.html)
