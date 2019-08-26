@@ -10,7 +10,7 @@ Here are the items that will be briefly covered in this exploration of basic Pyt
 
 1.- if Statement
 
-- for Statement
+2.- for Statement
 - break and continue Statements, and else Clauses on Loops
 - pass Statements
 
