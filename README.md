@@ -8,9 +8,8 @@ Python knows the usual control flow statements known from other languages, with 
 
 Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
-1.- if Statement
-
-2.- for Statement
+- if Statement
+- for Statement
 - break and continue Statements, and else Clauses on Loops
 - pass Statements
 
@@ -80,3 +79,4 @@ The pass statement does nothing. It can be used when a statement is required syn
 ## References 
 
 [https://python.swaroopch.com/control_flow.html](url)
+[https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/](url)
