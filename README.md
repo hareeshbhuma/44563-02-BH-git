@@ -8,14 +8,15 @@ Python knows the usual control flow statements known from other languages, with 
 
 Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
-- if Statement
-- for Statement
-- break and continue Statements, and else Clauses on Loops
-- pass Statements
+1.if Statement
+2.for Statement
+3.break and continue Statements, and else Clauses on Loops
+4.pass Statements
 
 ## if Statement
 
-There can be zero or more elif parts, and the else part is optional. The keyword ‘elif’ is short for ‘else if’, and is useful to avoid excessive indentation. An if … elif … elif … sequence is a substitute for the switch or case statements found in other languages.
+- There can be zero or more elif parts, and the else part is optional. The keyword ‘elif’ is short for ‘else if’, and is useful to avoid   excessive indentation. 
+- An if … elif … elif … sequence is a substitute for the switch or case statements found in other languages.
 
 ```
 >>> x = int(input("Please enter an integer: "))
@@ -46,8 +47,8 @@ window 6
 defenestrate 12
 ```
 ## Break and continue Statements, and else Clauses on Loops¶
-The break statement, like in C, breaks out of the innermost enclosing for or while loop.
-Loop statements may have an else clause; it is executed when the loop terminates through exhaustion of the list (with for) or when the condition becomes false (with while), but not when the loop is terminated by a break statement. This is exemplified by the following loop, which searches for prime numbers:
+- The break statement, like in C, breaks out of the innermost enclosing for or while loop.
+- Loop statements may have an else clause; it is executed when the loop terminates through exhaustion of the list (with for) or when the   condition becomes false (with while), but not when the loop is terminated by a break statement. This is exemplified by the following     loop, which searches for prime numbers:
 
 ```
 >>> for n in range(2, 10):
@@ -69,15 +70,19 @@ Loop statements may have an else clause; it is executed when the loop terminates
 9 equals 3 * 3
 ```
 ## pass Statements
-The pass statement does nothing. It can be used when a statement is required syntactically but the program requires no action. For example
+- The pass statement does nothing. It can be used when a statement is required syntactically but the program requires no action. For       example
 
 ```
 >>> class MyEmptyClass:
 ...     pass
 
 ```
+![http://www.letustweak.com/wp-content/uploads/2015/12/conti.png](src)
+
 ## References 
 
 [https://python.swaroopch.com/control_flow.html](url)
 
 [https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/](url)
+
+[http://net-informations.com/python/flow/default.htm](url)
