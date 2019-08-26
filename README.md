@@ -89,3 +89,8 @@ defenestrate 12
 - [https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/](https://fresh2refresh.com/pythontutorial/python-control-statements-or-control-flow/)
 
 - [http://net-informations.com/python/flow/default.html](http://net-informations.com/python/flow/default.html)
+
+## Pic Credits :
+
+- [Python Logo](https://www.python.org/static/img/python-logo@2x.png)
+- [Controlled Flow](https://i2.wp.com/www.c-sharpcorner.com/UploadFile/4aac15/python-basics-understanding-the-flow-control-statements/Images/img2.jpg)
