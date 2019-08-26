@@ -86,6 +86,6 @@ defenestrate 12
 
 - [https://python.swaroopch.com/control_flow.html](https://python.swaroopch.com/control_flow.html)
 
-- [https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/(https://fresh2refresh.com/pythontutorial/python-control-statements-or-control-flow/)
+- [https://fresh2refresh.com/python-tutorial/python-control-statements-or-control-flow/](https://fresh2refresh.com/pythontutorial/python-control-statements-or-control-flow/)
 
 - [http://net-informations.com/python/flow/default.html](http://net-informations.com/python/flow/default.html)
