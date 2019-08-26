@@ -6,11 +6,11 @@ Python knows the usual control flow statements known from other languages, with 
 
 Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
-1.if Statement
-2.for Statement
-3.The range() Function
-4.break and continue Statements, and else Clauses on Loops
-5.pass Statements
+- if Statement
+- for Statement
+- The range() Function
+- break and continue Statements, and else Clauses on Loops
+- pass Statements
 
 ## if Statement
 ```markdown
