@@ -1,8 +1,8 @@
-## Basic Python Control flow Tools
+# Basic Python Control flow Tools
 
 Python knows the usual control flow statements known from other languages, with some twists.
 
-### Overview
+## Overview
 
 Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
@@ -12,7 +12,7 @@ Here are the items that will be briefly covered in this exploration of basic Pyt
 4.break and continue Statements, and else Clauses on Loops
 5.pass Statements
 
-# if Statement
+## if Statement
 ```markdown
 Syntax highlighted code block
 
