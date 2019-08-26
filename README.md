@@ -77,7 +77,7 @@ defenestrate 12
 ...     pass
 
 ```
-![http://www.letustweak.com/wp-content/uploads/2015/12/conti.png](src)
+![https://cdncontribute.geeksforgeeks.org/wp-content/uploads/if-else.jpg](src)
 
 ## References 
 
