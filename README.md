@@ -8,7 +8,8 @@ Python knows the usual control flow statements known from other languages, with 
 
 Here are the items that will be briefly covered in this exploration of basic Python Control flow Tools.
 
-- if Statement
+1.- if Statement
+
 - for Statement
 - break and continue Statements, and else Clauses on Loops
 - pass Statements
