@@ -77,7 +77,7 @@ defenestrate 12
 ...     pass
 
 ```
-![https://cdncontribute.geeksforgeeks.org/wp-content/uploads/if-else.jpg](src)
+![https://tr1.cbsistatic.com/hub/i/r/2018/12/06/b9ab52f5-a278-4e98-9e21-734d2689019d/resize/1200x/685c6e97a8398153efb4549fb7bdbae4/5.jpg](src)
 
 ## References 
 
